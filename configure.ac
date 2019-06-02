@@ -113,6 +113,7 @@ AC_CONFIG_FILES([
     ui/spice-html5/thirdparty/Makefile
     ui/spice-web-client/Makefile
     ui/spice-web-client/application/Makefile
+    ui/spice-web-client/flexvdi/Makefile
     ui/spice-web-client/keymaps/Makefile
     ui/spice-web-client/lib/Makefile
     ui/spice-web-client/lib/images/Makefile
